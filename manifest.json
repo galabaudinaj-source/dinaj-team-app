@@ -1,7 +1,7 @@
 {
-  "name": "Dinaj Tagesbericht",
-  "short_name": "Tagesbericht",
-  "description": "Tagesberichte erfassen und als PDF exportieren – Vatan Dinaj Garten & Landschaftsbau",
+  "name": "Dinaj Zeiterfassung",
+  "short_name": "Zeiterfassung",
+  "description": "Arbeitszeiten erfassen – Vatan Dinaj Garten & Landschaftsbau",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
